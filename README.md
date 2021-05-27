@@ -3,3 +3,7 @@ Android game written in Java that is much like Flappy Bird but with a fish under
 
 
 ### Game Preview
+
+
+https://user-images.githubusercontent.com/56756748/119802337-c27e3400-bede-11eb-9889-2cc93d98ed9d.mp4
+
